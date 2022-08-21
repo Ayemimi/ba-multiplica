@@ -1,0 +1,7 @@
+sketch web
+ wireframe 
+prototipo estatico 45%
+prototino dinamico 90%
+deploy
+mantenimiento de la app
+up 
